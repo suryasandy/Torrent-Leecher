@@ -1,6 +1,8 @@
 # Torrent-Leecher
 A simple web interface for downloading torrent files. Just provide the `magnet` link or `.torrent` file url and sit back. The request is forwaded to a python script that gets the job done. This is very minimalistic implementation of python's `libtorrent` library along with `PHP` and `jQuery`. File browsing is provided by `h5ai` file indexer that has many great features.
+##Deploy
 
+[![Deploy of Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suryasandy/Torrent-Leecher)
 - Home Page
 <p align="center"><img src="img/snap_shot.JPG"></p>
 
